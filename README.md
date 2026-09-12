@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
- # DATE 
+ # NAME : DILIP KUMAR R 
+ # REGISTER NUMBER :212225230059
+ # DEPARTMENT : B.TECH AI&DS
+ # YEAR :II
+ # DATE :20.07.26
 
  
 # Aim:
@@ -50,6 +50,29 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
+# AND GATE:
+<img width="327" height="250" alt="image" src="https://github.com/user-attachments/assets/4d31b0be-606f-404e-8c68-ee1818707482" />
+
+# OR GATE :
+<img width="324" height="254" alt="image" src="https://github.com/user-attachments/assets/1d101d83-f2b8-44b8-9297-95a5ef205f3c" />
+
+
+# NOT GATE :
+<img width="214" height="159" alt="image" src="https://github.com/user-attachments/assets/76124c88-6f27-4420-b3c6-1fd8a311e2fa" />
+
+
+# NAND :
+<img width="333" height="250" alt="image" src="https://github.com/user-attachments/assets/050d9a41-dde2-46b3-94ea-cc19c1239396" />
+
+
+# NOR :
+<img width="330" height="249" alt="image" src="https://github.com/user-attachments/assets/c6991ea6-25cb-4059-aafa-67443a11363b" />
+
+
+# XOR :
+<img width="326" height="248" alt="image" src="https://github.com/user-attachments/assets/aa8a721a-950c-4f7d-8fc4-aa48f17996b8" />
+
+
  
 # Procedure:
 Setup the PLC Programming Environment:
@@ -80,6 +103,31 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+# AND GATE :
+<img width="700" height="125" alt="image" src="https://github.com/user-attachments/assets/cd5565dd-6b3a-4e02-9486-4503d727afe4" />
+
+# OR GATE :
+<img width="701" height="209" alt="image" src="https://github.com/user-attachments/assets/0bb161eb-32d3-4dae-aa7b-50064f9a7ce3" />
+
+# NOT GATE :
+<img width="645" height="141" alt="image" src="https://github.com/user-attachments/assets/91df57cd-cac4-497c-b83a-49cabbf26ab7" />
+
+# NAND GATE :
+<img width="665" height="134" alt="image" src="https://github.com/user-attachments/assets/ec244caa-0ca5-4144-8b38-22cac6a73801" />
+
+# NOR GATE : 
+<img width="695" height="130" alt="image" src="https://github.com/user-attachments/assets/3a068032-f742-4f39-a54f-2d7b905aee2c" />
+
+
+# XOR GATE : 
+<img width="683" height="246" alt="image" src="https://github.com/user-attachments/assets/d7788b95-73ab-4da4-8419-0f2441c5c3ca" />
+
+# DEVICE MONITOR TABLE :
+<img width="1703" height="576" alt="image" src="https://github.com/user-attachments/assets/e031142c-4b9e-41f2-aa16-30dad096c9cf" />
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/1e158f91-a271-40cf-8677-2a1c40c7e064" />
+<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/b2b69751-aab3-49ec-8503-997b541881cf" />
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/5a139b34-1b26-4c57-8601-426abaa79654" />
+
 
 
 #Results:
